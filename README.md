@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @priyansh-pj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science,BlockChain
+- 🌱 I’m currently learning Python,C++,DSA,ML,BlockChain
+- 💞️ I’m looking to collaborate on OpenSouce projects
+- 📫 How to reach me me.priyanshjain@gmail.com
 
 <!---
 priyansh-pj/priyansh-pj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

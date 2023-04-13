@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh Jain</h1>
+<h1 align="center">I'm Priyansh Jain</h1>
 <h3 align="center">Data Science | Machine Learning | Python Development | Web Development</h3>
 
 - 🔭 I’m currently working on **DataBliss**
